@@ -1,0 +1,5 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric
+frozenset({'Bread'}),frozenset({'Milk'}),0.3,0.55,0.2,0.6666666666666667,1.2121212121212122,0.035,1.35,0.25000000000000006
+frozenset({'Butter'}),frozenset({'Milk'}),0.3,0.55,0.2,0.6666666666666667,1.2121212121212122,0.035,1.35,0.25000000000000006
+frozenset({'Eggs'}),frozenset({'Cheese'}),0.45,0.55,0.4,0.888888888888889,1.6161616161616161,0.1525,4.050000000000002,0.6931818181818181
+frozenset({'Cheese'}),frozenset({'Eggs'}),0.55,0.45,0.4,0.7272727272727273,1.6161616161616161,0.1525,2.016666666666667,0.8472222222222222
